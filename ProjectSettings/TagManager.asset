@@ -13,9 +13,9 @@ TagManager:
   - UI
   - 
   - 
-  - 
-  - 
-  - 
+  - Ground
+  - Wall
+  - Playa
   - 
   - 
   - 
@@ -40,4 +40,16 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: Floor
+    uniqueID: 2991806277
+    locked: 0
+  - name: Wall
+    uniqueID: 1916798809
+    locked: 0
+  - name: PowerUps
+    uniqueID: 410586107
+    locked: 0
+  - name: Units
+    uniqueID: 1833726929
     locked: 0
